@@ -1,3 +1,4 @@
+#SingleInstance ignore
 ::!today:: 
 FormatTime,CurrentTime,,M/d/yyyy
 SendInput %CurrentTime%

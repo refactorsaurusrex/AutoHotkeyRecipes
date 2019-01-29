@@ -1,4 +1,5 @@
-﻿#IfWinActive ahk_class CabinetWClass
+﻿#SingleInstance ignore
+#IfWinActive ahk_class CabinetWClass
 Escape::
 ControlGetFocus, focus, A
 if (focus <> "edit1") {
