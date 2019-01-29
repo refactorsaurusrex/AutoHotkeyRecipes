@@ -3,14 +3,14 @@ My collection of AutoHotkey scripts.
 
 # How To Use
 
-## If you're running the installed version of AutoHotkey...
+## If you're running the installed version of AutoHotkey
 
 1. Clone this repo
 2. To run all scripts simultaneously, double click `RunAll.ahk`.
 3. To run scripts individually, double click the ones you want to run.
 
 ## If you're running the portable version of AutoHotkey 
-> Meaning: you downloaded and extracted the zipped version of AutoHotkey
+> Meaning: you downloaded and extracted the zipped version of AutoHotkey.
 
 1. Clone this repo
 
