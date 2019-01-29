@@ -1,3 +1,3 @@
 #SingleInstance ignore
-#Include InsertDate.ahk
-#Include CloseExplorerWithEscape.ahk
+#Include %A_ScriptDir%\InsertDate.ahk
+#Include %A_ScriptDir%\CloseExplorerWithEscape.ahk
