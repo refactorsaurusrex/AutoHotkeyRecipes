@@ -25,9 +25,9 @@ My collection of AutoHotkey scripts.
 
 # List Of All Recipes
 
-## CloseExplorerWithEscape
+## CloseExplorerWithCtrlW
 
-Allows Windows Explorer windows to be closed with the `Esc` key, instead of `Alt + F4`. (Pressing `Esc` to cancel a file or folder rename still works as expected.)
+Close Windows Explorer windows with `CTRL + W`, instead of `Alt + F4`. 
 
 ## InsertDate
 
